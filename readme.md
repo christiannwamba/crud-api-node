@@ -36,9 +36,9 @@
 
 ## Prerequisites
 
-- [Free Azure Account](https://azure.microsoft.com/en-us/free/?WT.mc_id=reactor-workshop-chnwamba)
+- [Free Azure Account](https://azure.microsoft.com/free/?WT.mc_id=startup-0000-chnwamba)
 - [Node.js](https://nodejs.org/en/download/) installed
-- [VS Code](https://code.visualstudio.com?WT.mc_id=reactor-workshop-chnwamba) (optionally but handy if you want to use the custom snippets)
+- [VS Code](https://code.visualstudio.com/?WT.mc_id=startup-0000-chnwamba) (optionally but handy if you want to use the custom snippets)
 - **Knowledge requirements**
   - JS fundamentals
   - Node.js basics
@@ -249,7 +249,7 @@ For Linux:
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ```
 
-[Learn more…](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+[Learn more…](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=startup-0000-chnwamba)
 
 </details>
 
@@ -258,7 +258,7 @@ curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 
 ### Task 2: Login to Azure
 
-Login to Azure with your CLI (you need to have created an [Azure Account](https://azure.microsoft.com/en-us/free/?WT.mc_id=reactor-workshop-chnwamba). It’s free):
+Login to Azure with your CLI (you need to have created an [Azure Account](https://azure.microsoft.com/free/?WT.mc_id=startup-0000-chnwamba). It’s free):
 
 ```bash
 az login
@@ -1317,7 +1317,7 @@ MONGO_DB_DATABASE_NAME="blog"
 
 **Get Cosmos DB Primary Key**
 
-1. Go to https://shell.azure.com
+1. Go to https://shell.azure.com/?WT.mc_id=startup-0000-chnwamba
 2. [Set a default subscription](#task-3-set-a-default-azure-subscription) (on this page)
 3. Run:
 
